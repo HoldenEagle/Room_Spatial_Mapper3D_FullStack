@@ -38,6 +38,6 @@ node server.js
 cd testreact
 npm start
 
-
+Future Advancements: looking to connect this with the point cloud viewer and to upgrade the graphics and user interface with the visual
 
 
