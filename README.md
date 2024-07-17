@@ -31,7 +31,7 @@ Dependecies to Install:
 
 To run the Application:
 1.Start Server
-cd server
+cd server 
 node server.js
 
 2.Start React Application
